@@ -1,0 +1,6 @@
+# 个人配置与用量缓存（运行时生成，不入库）
+config.json
+.usage-cache.json
+
+node_modules/
+*.log

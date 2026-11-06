@@ -1,0 +1,11 @@
+{
+  "name": "claudecodestatusline",
+  "version": "1.0.0",
+  "description": "Claude Code 自定义状态栏（带交互式设置界面）",
+  "main": "statusline.js",
+  "bin": {
+    "ccsl": "statusline.js"
+  },
+  "license": "MIT",
+  "private": true
+}
